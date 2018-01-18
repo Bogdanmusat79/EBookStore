@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>eBookStore Home Page</title>
-        <link rel="stylesheet" type="text/css" href="=./css/eBooksStoreCSS.css"
+        <link rel="stylesheet" type="text/css" href="index.jsp"
     </head>
     <body class="backgroundPaginaPrincipala"
         <h1>Hello World!</h1>
