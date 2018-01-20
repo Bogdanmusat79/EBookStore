@@ -4,9 +4,9 @@ EBookStore
 /* 
     Author     : Bogdan Musat
 */
-.eBookStore{
+
 body {
-    background:url();
+    background:url(eBooksStoreBackground.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     font-family: "Verdana";
@@ -223,4 +223,3 @@ select{
    line-height: 1;
    height: 23px;
    }
-}
